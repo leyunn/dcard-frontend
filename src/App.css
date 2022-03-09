@@ -1,0 +1,14 @@
+
+body{
+    font-family: "Gill Sans", sans-serif;
+}
+
+#github_mark {
+    margin-top: 2px;
+    margin-left: 8px;
+}
+
+#github_mark:hover {
+    opacity: 0.7;
+}
+
